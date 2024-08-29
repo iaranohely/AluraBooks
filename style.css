@@ -4,10 +4,3 @@
 body{
     background-color: var(--cor-de-fundo);
 }
-<header class="cabeçalho">
-        <span class="cabeçalho__menu-hamburguer"></span>
-        <img src="img/Polygon 1.svg" alt="Logo da AluraBooks">
-        <a href="#"><img src="img/Vector.svg"></a>
-        <a href="#"><img src="img/Sacola.svg"></a>
-        <a href="#"><img src="img/Frame 3.svg"></a>
-    </header>
