@@ -7,4 +7,13 @@
 
 body {
     background-color: var(--cor-de-fundo);
+    margin: 0;
+    padding: 0;
 }
+
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;

@@ -7,12 +7,25 @@
     background-position: center;
 }
 
-.cabeçalho {
-    background-color: var(--branco);
-    display: flex;
-    justify-content: space-between;
+.cabeçalho__logo {
+    height: 40px;
 }
 
-.container__imagem {
-    padding: 1em;
+.cabeçalho__icone {
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container--direita {
+    justify-content: flex-end;
+}
+
+.container--esquerda {
+    justify-content: flex-start;
 }
