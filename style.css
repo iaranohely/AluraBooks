@@ -11,7 +11,7 @@ body {
     padding: 0;
 }
 
-.cabeçalho {
+.cabecalho {
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
@@ -32,7 +32,7 @@ body {
     justify-content: flex-start;
 }
 
-.cabeçalho__menu-hamburguer {
+.cabecalho__menu-hamburguer {
     width: 24px;
     height: 24px;
     display: inline-block;
@@ -41,11 +41,11 @@ body {
     background-position: center;
 }
 
-.cabeçalho__logo {
+.cabecalho__logo {
     height: 40px;
 }
 
-.cabeçalho__icone {
+.cabecalho__icone {
     width: 24px;
     height: 24px;
     margin-left: 10px;
