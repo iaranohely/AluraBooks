@@ -7,6 +7,14 @@
     background-position: center;
 }
 
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  /* Certifica-se que os itens estejam centralizados */
+    padding: 10px;
+}
+
+
 .cabecalho__logo {
     height: 40px;
 }
